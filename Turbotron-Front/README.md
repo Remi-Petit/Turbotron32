@@ -10,10 +10,6 @@
 
 3. Modifiez la librairie @korsolutions par le Fork que nous avons fait.
 
-   ```bash
-    npx expo start
-   ```
-
 2. Démarrer le projet
 
    ```bash
